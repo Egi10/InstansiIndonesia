@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Instansi Indonesia</string>
+    <string name="instansi_pemerintah">INSTANSI PEMERINTAH</string>
+    <array name="kabupaten">
+        <item>Kabupaten Purwakarta</item>
+        <item>Kota Bandung</item>
+        <item>Kota Jakarta Barat</item>
+        <item>Kota Jakarta Timur</item>
+        <item>Kota Jakarta Utara</item>
+        <item>Kota Jakarta Selatan</item>
+    </array>
+    <string name="title_activity_maps">Map</string>
+</resources>
